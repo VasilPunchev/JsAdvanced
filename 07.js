@@ -1,3 +1,5 @@
+
+
 function solve(dayOfWeek){
 if (dayOfWeek === 'Monday') {
     console.log(1);
